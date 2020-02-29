@@ -23,6 +23,7 @@ distribution of choice, but will be similar:
 *   gcc
 *   libc6-dev
 *   libpam-dev (for the `authproto_pam` module)
+*   libpam0g-dev
 *   libx11-dev
 *   libxcomposite-dev
 *   libxext-dev
